@@ -1,2 +1,2 @@
 # lintobot
-https;//lintobot.com | لینتو بات
+https://lintobot.com | لینتو بات
